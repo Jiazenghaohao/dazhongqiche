@@ -4,7 +4,6 @@ body{
 }
 .nav{
 	width:1300px;
-	height:5000px;
 	margin:0 auto;
 }
 .header-left{
@@ -56,11 +55,9 @@ body{
 .head{
 	float:left;	
 	width:1200px;
-	height:5000px;
 }
 .header{
 	width:1198px;
-	height:60px;
 	background-color:#BDC3C6;
 	position:fixed;
 }
@@ -72,7 +69,6 @@ body{
 }
 .header-bottom{
 	width:1198px;
-	height:42px;
 	position:fixed;
 	top:60px;
 	background-color:#808890;
@@ -96,8 +92,6 @@ body{
 }
 .content{
 	width:1198px;
-	height:673px;
-	border:1px solid red;
 	overflow:hidden;
 }
 .content img{
@@ -108,7 +102,6 @@ body{
 }
 .content-text{
 	width:1198px;
-	height:230px;
 	border-bottom:3px solid #808890;
 	border:1px solid white;
 }
@@ -140,7 +133,6 @@ body{
 }
 .content-appearance1{
 	width:500px;
-	height:280px;
 	margin:100px 0 0 50px;
 	float:left;
 }
@@ -179,7 +171,6 @@ body{
 }
 .content-entirety1{
 	width:500px;
-	height:280px;
 	margin:100px 0 0 50px;
 	float:left;
 }
@@ -199,7 +190,6 @@ body{
 }
 .content-return{
 	width:1198px;
-	height:40px;
 	border:1px solid #ADADAD;
 	background-color:#ADADAD;
 	margin-top:-1px;
@@ -248,7 +238,6 @@ body{
 }
 .footer{
 	width:1198px;
-	height:280px;
 	margin-top:-16px;
 	border-bottom:8px solid #DEE1E3;
 }

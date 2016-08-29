@@ -12,6 +12,23 @@ body{
 	width:1200px;
 	height:100%;
 }
+.div-1{
+	width:1198px;
+	border:1px solid #BDC3C6;
+	background-color:#BDC3C6;
+}
+.text-1{
+	font-size:40px;
+	font-weight:bold;
+	margin-left:150px;
+	margin-top:30px;
+}
+.div-2{
+	width:1198px;
+	height:50px;
+	border:1px solid #808890;
+	background-color:#808890;
+}
 .header{
 	width:1198px;
 	height:673px;
