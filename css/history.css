@@ -4,13 +4,12 @@ body{
 }
 .overall{
 	width:1300px;
-	height:100%;
 	margin:0 auto;
 }
 .header-left{
+	float:left;
 	width:80px;
 	background-color:#FFFFFF;
-	float:left;
 	clear:both;
 }
 .follow{
@@ -69,7 +68,7 @@ body{
 	border:1px solid #F3F5F6;
 	background-color:#F3F5F6;
 }
-.text-1{
+.text-head{
 	font-size:40px;
 	font-weight:bold;
 	margin-left:150px;
@@ -81,25 +80,22 @@ body{
 	background-color:#D1D1D1;
 	background-image:url("../images/V_imgp1.jpg")
 }
-.nav_1{
+.nav{
 	width:1198px;
 	height:50px;
 	background-color:#BDC3C6;
 }
-.nav_1 ul{
+.nav ul{
 	list-style:none;
 	margin:0;
 	text-decoration:none;
-	
-	
 }
-.nav_1 ul li{
+.nav ul li{
 	font-size:20px;
 	font-weight:bold;
 	display:inline-block;
 	padding-left:60px;
 	margin-top:10px;
-	
 }
 .text-nav-history{
 	color:white;
@@ -265,18 +261,3 @@ body{
 .text-type1 a:hover{
 	color:#00AEAE;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
