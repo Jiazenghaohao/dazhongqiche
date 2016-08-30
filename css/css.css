@@ -170,9 +170,11 @@ body{
 	border:1px solid white;
 }
 .content-entirety1{
-	width:500px;
-	margin:100px 0 0 50px;
 	float:left;
+	width:500px;
+	height:280px;
+	margin:100px 0 0 50px;
+	
 }
 .text-appearance3{
 	font-size:50px;

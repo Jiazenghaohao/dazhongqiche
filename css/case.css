@@ -168,6 +168,7 @@ body{
 }
 .content-path1 img{
 	transform:rotate(-5deg);
+	box-shadow: 15px 15px 20px #808890;
 }
 .text-path{
 	font-size:25px;
@@ -185,6 +186,7 @@ body{
 }
 .content-running img{
 	transform:rotate(5deg);
+	box-shadow: 15px 15px 20px #808890;
 }
 .content-running1{
 	width:500px;
